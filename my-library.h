@@ -1,1 +1,1 @@
-print("Hell yeah")
+print("Hell")
